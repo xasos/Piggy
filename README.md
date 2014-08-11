@@ -4,8 +4,7 @@ piggy
 ## What is piggy?
 Uber for piggyback rides. Plain and simple.
 
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/yeN4v8v-1_o" allowfullscreen frameborder="0">
-</iframe>
+[![piggy Video Demo](http://img.youtube.com/vi/yeN4v8v-1_o/0.jpg)](https://www.youtube.com/watch?v=yeN4v8v-1_o)
 
 
 ## Inspiration
