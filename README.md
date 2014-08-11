@@ -6,7 +6,6 @@ Uber for piggyback rides. Plain and simple.
 
 [![piggy Video Demo](http://img.youtube.com/vi/yeN4v8v-1_o/0.jpg)](https://www.youtube.com/watch?v=yeN4v8v-1_o)
 
-YT("yeN4v8v-1_o", print = TRUE)
 ## Inspiration
 Inspired by [this video](http://youtu.be/ETYHvOOx5BY?t=5s) at Bitcamp.
 
