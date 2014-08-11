@@ -2,8 +2,7 @@ piggy
 =====
 
 ## What is piggy?
-Uber for piggyback rides. Plain and simple.
-
+Uber for piggyback rides. Plain and simple. <br>Video Demo:
 [![piggy Video Demo](http://i.imgur.com/hr5kidv.png)](https://www.youtube.com/watch?v=yeN4v8v-1_o)
 
 ## Inspiration
