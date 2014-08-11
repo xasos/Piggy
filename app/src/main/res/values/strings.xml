@@ -4,5 +4,7 @@
     <string name="app_name">piggy</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_pig_profile">Profile</string>
+    <string name="title_activity_pick_friends">PickFriendsActivity</string>
 
 </resources>
