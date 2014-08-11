@@ -43,6 +43,7 @@
             android:layout_height="wrap_content"
              android:singleLine="true"
              android:textColor="@color/white"
+             android:password="true"
              android:textColorHint="@color/white"
              android:gravity = "center"
             android:hint = "password"

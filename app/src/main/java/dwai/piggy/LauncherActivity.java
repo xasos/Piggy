@@ -30,7 +30,7 @@ public class LauncherActivity extends Activity {
     }
 
     public void pressedSignIn(View v){
-        startActivity(new Intent(LauncherActivity.this, Profile.class));
+        startActivity(new Intent(LauncherActivity.this, PickFriendsActivity.class));
     }
 
     public static final void setAppFont(ViewGroup mContainer, Typeface mFont, boolean reflect)

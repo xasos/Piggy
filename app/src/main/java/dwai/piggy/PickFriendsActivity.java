@@ -1,9 +1,14 @@
 package dwai.piggy;
 
 import android.app.Activity;
+import android.content.Intent;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.view.ViewGroup;
+
 import dwai.piggy.R;
 
 public class PickFriendsActivity extends Activity {
@@ -12,8 +17,17 @@ public class PickFriendsActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pick_friends);
+                final Typeface mFont = Typeface.createFromAsset(getAssets(),
+                        "fonts/proxima.ttf");
+        final ViewGroup mContainer = (ViewGroup) findViewById(
+                android.R.id.content).getRootView();
+        LauncherActivity.setAppFont(mContainer, mFont, true);
+
     }
 
+    public void pressedStefan(View v){
+        startActivity(new Intent(PickFriendsActivity.this,Profile.class));
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
