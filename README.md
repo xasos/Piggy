@@ -1,5 +1,4 @@
-piggy
-=====
+<img src="http://i.imgur.com/I3AcmrB.png" alt="piggy banner" />
 
 ## What is piggy?
 Uber for piggyback rides. Plain and simple. <br>Video Demo:<br>
